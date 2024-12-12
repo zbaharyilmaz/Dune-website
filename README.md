@@ -37,7 +37,5 @@ Check out the live demo of the website [here](https://zbaharyilmaz.github.io/dun
 
 ## Visual
 
-![Dune GIF]()
-
----
+![Dune GIF](./website.gif)
 
