@@ -15,4 +15,3 @@ Check out the live demo of the website [here](https://zbaharyilmaz.github.io/dun
 
 ---
 
-I hope this helps! Feel free to adjust any sections to better fit your project's needs. If you need any more assistance, I'm here for you! 😊
