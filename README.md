@@ -1,33 +1,18 @@
-# Dune-website
-In this web development tutorial we will create a responsive Website suing HTML5 CSS3 and Sass/Scss in order to create a clone of the Dune novels website. I will use sass and scss in this project in order to take advantage of sass nesting properties and partials.
+# Dune   Movie Website Project
 
-Nesting will help us write 10X quicker CSS and it is also extremely helpful when creating utility classes.
+In this project, we will create a responsive website using HTML5, CSS3, and Sass/SCSS to clone the Dune novels website. This project utilizes Sass's nesting capabilities and partials to achieve a more streamlined and well-structured codebase.
 
-Dune website Project content:
-Intro & Project overview
-Project overview
-Project Structure
-Install Sass extension and setup sass
-Creating sass partial files
-Website sass variables
-Website configuration sass file
-Sass utilities partial file
-Creating comments in Sass / Scss
-Sass text alignment classes
-Background color classes
-Sass mixin
-Margin classes
-Create the website navigation bar using sass
-Navigation component in sass
-Website header
-Website Movie section
-Sass Button component
-Sass Form component
-Create the subscribe form using HTML and Sass classes
-Make website responsive using @media query
-Useful Links:
-Bootstrap 5 CDN
 
-https://fonts.google.com/
+## Useful Links
 
-https://fontawesome.com/
+- [Bootstrap 5 CDN](https://getbootstrap.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+
+## Live Demo
+
+Check out the live demo of the website [here](https://zbaharyilmaz.github.io/dune-movie-website/).
+
+---
+
+I hope this helps! Feel free to adjust any sections to better fit your project's needs. If you need any more assistance, I'm here for you! 😊
